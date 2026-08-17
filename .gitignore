@@ -1,0 +1,14 @@
+# Secrets and live state
+.env
+*.key
+*.pem
+config/config.json
+data/
+backups/
+logs/
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
